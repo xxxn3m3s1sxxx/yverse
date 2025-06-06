@@ -1,3 +1,0 @@
-{
-  "note": "This file will be generated after deploying PaymentContract.sol to Sepolia. Run 'npx hardhat run scripts/deploy_payment.js --network sepolia' and copy the ABI from server/artifacts/contracts/PaymentContract.sol/PaymentContract.json."
-}

@@ -1,3 +1,0 @@
-{
-  "note": "This file will be generated after deploying YVerseNFT.sol to Sepolia. Run 'npx hardhat run scripts/deploy_nft.js --network sepolia' and copy the ABI from server/artifacts/contracts/YVerseNFT.sol/YVerseNFT.json."
-}

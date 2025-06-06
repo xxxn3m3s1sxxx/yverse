@@ -1,3 +1,0 @@
-{
-  "note": "This file will be generated after deploying PolygonNFT.sol to Mumbai. Run 'npx hardhat run scripts/deploy_polygon.js --network mumbai' and copy the ABI from server/artifacts/contracts/PolygonNFT.sol/PolygonNFT.json."
-}
